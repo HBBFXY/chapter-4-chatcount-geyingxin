@@ -1,4 +1,4 @@
-# 从键盘获取一行输入
+
 input_str = input()
 
 letter_count = 0
